@@ -52,7 +52,7 @@ workflows:
             - "ruby-2.6.3"
       - "ruby-2.4.6":
           requires:
-            - "ruby-2.6.3"
+            - "ruby-2.5.5"
 
 
 
